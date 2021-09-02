@@ -1,0 +1,7 @@
+*.jar
+*.class
+/.nrepl-port
+.cpcache/
+.lsp/
+Session.vim
+conjure-log-*.cljc
